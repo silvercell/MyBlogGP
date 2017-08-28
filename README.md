@@ -1,0 +1,2 @@
+# MyBlogGP
+my gitpage blog
